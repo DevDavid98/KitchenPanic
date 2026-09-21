@@ -1,0 +1,33 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+
+# Build files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JetBrains
+*.sln.iml
+
+# Unreal generated files
+*.pdb
+*.obj
+*.target
+*.dll
+*.lib
+
+# Logs
+*.log

@@ -1,0 +1,10 @@
+[
+	{
+		"file": "/home/ANOOBIS/Desktop/Game Dev/UE PROJECTS/KitchenPanic/Source/KitchenPanic/KitchenPanic.cpp",
+		"arguments": [
+			"/home/ANOOBIS/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/ANOOBIS/Desktop/Game Dev/UE PROJECTS/KitchenPanic/.vscode/compileCommands_KitchenPanic/KitchenPanic.0.rsp"
+		],
+		"directory": "/home/ANOOBIS/UnrealEngine/Engine/Source"
+	}
+]

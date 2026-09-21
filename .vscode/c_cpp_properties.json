@@ -1,0 +1,28 @@
+{
+	"configurations": [
+		{
+			"name": "KitchenPanicEditor Editor Linux Development (KitchenPanic)",
+			"compilerPath": "/home/ANOOBIS/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"compilerArgs": [
+				"-isysroot",
+				"/home/ANOOBIS/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu"
+			],
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "clang-x64",
+			"compileCommands": "/home/ANOOBIS/Desktop/Game Dev/UE PROJECTS/KitchenPanic/.vscode/compileCommands_KitchenPanic.json"
+		},
+		{
+			"name": "Linux",
+			"compilerPath": "/home/ANOOBIS/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"compilerArgs": [
+				"-isysroot",
+				"/home/ANOOBIS/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu"
+			],
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "clang-x64",
+			"compileCommands": "/home/ANOOBIS/Desktop/Game Dev/UE PROJECTS/KitchenPanic/.vscode/compileCommands_Default.json"
+		}
+	]
+}
